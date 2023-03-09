@@ -12,6 +12,7 @@ public class Main {
             System.out.print(numeroInicio + ", ");
             numeroInicio++;
         }
+        estoyEnElEjercicio1 = false;
 
 
         // 1. b) A lo anterior, solo muestre los números pares.
